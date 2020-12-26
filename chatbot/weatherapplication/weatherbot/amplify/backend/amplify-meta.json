@@ -1,0 +1,36 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-weatherbotapp-dev-122820-authRole",
+      "UnauthRoleArn": "arn:aws:iam::171045396859:role/amplify-weatherbotapp-dev-122820-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::171045396859:role/amplify-weatherbotapp-dev-122820-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-weatherbotapp-dev-122820-deployment",
+      "UnauthRoleName": "amplify-weatherbotapp-dev-122820-unauthRole",
+      "StackName": "amplify-weatherbotapp-dev-122820",
+      "StackId": "arn:aws:cloudformation:us-east-1:171045396859:stack/amplify-weatherbotapp-dev-122820/913d80c0-4743-11eb-b528-0a4789a43cff",
+      "AmplifyAppId": "d2yrisd6ionmw0"
+    }
+  },
+  "auth": {
+    "weatherbotapp58f4b66e58f4b66e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-weatherbotapp-dev-122820-deployment/amplify-cfn-templates/auth/weatherbotapp58f4b66e58f4b66e-cloudformation-template.yml",
+        "logicalId": "authweatherbotapp58f4b66e58f4b66e"
+      },
+      "lastPushTimeStamp": "2020-12-26T10:11:51.149Z",
+      "output": {
+        "AppClientSecret": "8uv59bopmeak0kkrea6u30mluhj2u53f1u4s84on8hm11p2nldo",
+        "UserPoolId": "us-east-1_GztQY7IPS",
+        "AppClientIDWeb": "46fofc4e4gpc9e5re0dev89vpl",
+        "AppClientID": "5sn3nakbdhbekom3jqh1dnimpv",
+        "UserPoolName": "weatherbotapp58f4b66e_userpool_58f4b66e"
+      },
+      "lastPushDirHash": "SlMj+WrJFZf/hKFvhFJfyzyDwaE="
+    }
+  }
+}

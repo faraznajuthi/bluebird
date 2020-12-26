@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-weatherbotapp-dev-122820-authRole",
+      "UnauthRoleArn": "arn:aws:iam::171045396859:role/amplify-weatherbotapp-dev-122820-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::171045396859:role/amplify-weatherbotapp-dev-122820-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-weatherbotapp-dev-122820-deployment",
+      "UnauthRoleName": "amplify-weatherbotapp-dev-122820-unauthRole",
+      "StackName": "amplify-weatherbotapp-dev-122820",
+      "StackId": "arn:aws:cloudformation:us-east-1:171045396859:stack/amplify-weatherbotapp-dev-122820/913d80c0-4743-11eb-b528-0a4789a43cff",
+      "AmplifyAppId": "d2yrisd6ionmw0"
+    },
+    "categories": {
+      "auth": {
+        "weatherbotapp58f4b66e58f4b66e": {}
+      }
+    }
+  }
+}
